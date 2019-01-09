@@ -3,6 +3,7 @@ Author: Blanca Vazquez
 UNAM / IIMAS
 Goal: mortalidadICU
 Database: MIMIC III
+Tool: Multilayer Perceptron in Python
 """
 
 from sklearn.model_selection import KFold
